@@ -1,0 +1,76 @@
+
+#title {
+  background-color: #EDE4E0; position: relative;
+}
+h1, h2, h3 {  font-family: "DM Serif Display";}
+h2 {line-height: 1.5; text-align: center; padding-top: 40px;}
+h3 {font-size: 2rem;}
+.bekezd {font-size: 2.8rem;}
+.bekezd2 {margin-bottom: 6%;}
+.nav-item {color: black;}
+
+.heading1 {font-family: "DM Serif Display";  font-size: 3.4rem;  line-height: 1.5; padding: 30px; text-align: left; padding-bottom: 60px;}
+
+.colored-section {background-color: #EDE4E0;}
+
+.white-section {background-color: #C8DBBE;}
+
+div.container-fluid {
+  padding: 2% 15%;
+}
+
+.motto {padding: 5%; font-size: 1.5rem;}
+
+.logo1 {width: 100%;}
+
+a.navbar-brand {
+  font-size: 3rem; font-family: "Ubuntu";
+}
+
+img.img1 { width: 120%; transform: rotate(180deg); position: relative; left: 100px; z-index: 0;}
+
+nav.navbar {padding-bottom: 60px; }
+
+li.nav-item {padding: 0px 20px; font-size: 1.2rem;}
+
+button.buttonka {margin: 10%; position: relative; left: 30px;}
+button.buttonka1 {margin: 2%; position: relative; left: 290px;}
+
+#features {text-align: center; padding: 0% 15% 0%; z-index: 1; position: relative;}
+
+.fa-scissors {font-size: 300%; padding-bottom: 20px;}
+.fa-leaf {font-size: 300%; padding-bottom: 20px;}
+.fa-ruler-vertical {font-size: 300%; padding-bottom: 20px;}
+
+#features p {font-size: 1.2rem; font-family: "Ubuntu";}
+
+.icon {color: #ef8172;}
+.icon:hover {
+  color: #F05454;
+}
+
+.carousel-inner {padding: 7% 15%; text-align: center;}
+
+.kutya { width: 20%; border-radius: 90%; margin: 20px;}
+.gáré { width: 20%; border-radius: 90%; margin: 20px;}
+
+
+#pricing {padding: 40px; text-align: center; font-family: "Ubuntu"}
+
+#cta { text-align: center; font-family: "DM Serif Display"; padding: 50px; position: relative; line-height: 1.5;}
+.love {font-size: 2.8rem;}
+.butik {margin: 1%;}
+.nyitva {font-size: 2.5rem;}
+.tel {font-size: 2rem; font-family: "DM Serif Display"; text-decoration: none; color: #9F8772; margin: 5%;}
+.cím {font-size: 1.6rem; font-family: "Ubuntu";}
+.idő {font-family: "Ubuntu";}
+.hairblog {margin: 5%; font-size: 3rem;}
+#footer { text-align: center; padding: 50px;}
+.fasz {margin: 2% 3%; font-size: 1.8rem; color: black;}
+#blog {text-align: left; padding: 2% 20%;}
+
+@media (max-width: 1012px) {
+  img.img1 { transform: rotate(0);}
+  h1 {text-align: center;}
+  #title {text-align: center;}
+}
