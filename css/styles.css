@@ -91,8 +91,8 @@ button.buttonka1 {margin: 2%;}
   #title {text-align: center;}
   .buttonka {position: relative; right: 40px; z-index: 2;}
   .munkakép {width: 50%;}
-  .logo1 {width: 100%; position: static;}
-  .navbaba {position: relative; left: 100px; width: 120%;}
+  .logo1 {width: 110%; position: static;}
+  .navbaba {position: relative; left: 90px;}
 }
 @media (min-width: 1000px) {
   .logo1 {width: 180%;}
