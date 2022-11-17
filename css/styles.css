@@ -92,7 +92,7 @@ button.buttonka1 {margin: 2%;}
   .buttonka {position: relative; right: 40px; z-index: 2;}
   .munkakép {width: 50%;}
   .logo1 {width: 100%; position: static;}
-  .navbaba {position: static; width: 100%;}
+  .navbaba {position: relative; left: 120px; width: 120%;}
 }
 @media (min-width: 1000px) {
   .logo1 {width: 180%;}
