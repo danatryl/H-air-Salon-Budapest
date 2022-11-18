@@ -97,6 +97,7 @@ button.buttonka1 {margin: 2%;}
   h2 {font-size: 3rem;}
   h3 {font-size: 2.7rem;}
   #features {bottom: 90px; margin-bottom: -90px;}
+  p {font-size: 1.8rem;}
 }
 @media (min-width: 1000px) {
   .logo1 {width: 180%;}
