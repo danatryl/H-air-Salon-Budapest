@@ -100,6 +100,8 @@ button.buttonka1 {margin: 2%;}
   h3 {font-size: 2.7rem;}
   #features {bottom: 120px; margin-bottom: -120px;}
   p {font-size: 1.8rem;}
+  .motto {font-size: 2rem;}
+  .szöveg {font-size: 2rem;}
 }
 @media (min-width: 1000px) {
   .logo1 {width: 180%;}
