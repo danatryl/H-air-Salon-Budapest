@@ -93,6 +93,10 @@ button.buttonka1 {margin: 2%;}
   .munkakép {width: 50%;}
   .logo1 {width: 110%; position: static;}
   .navbaba {position: relative; left: 90px;}
+  h1 {font-size: 3.5rem;}
+  h2 {font-size: 3rem;}
+  h3 {font-size: 2.7rem;}
+  #features {bottom: 90px; margin-bottom: -90px;}
 }
 @media (min-width: 1000px) {
   .logo1 {width: 180%;}
