@@ -94,16 +94,16 @@ button.buttonka1 {margin: 2%;}
   .logo1 {width: 110%; position: static;}
   a.nav-link {
     font-size: 2.3rem; text-align: center; display: block; position: static; padding: auto;}
-  .navbaba {position: relative; left: 90px; float: none;
+  .navbaba {position: relative; left: 190px; top: 240px;;
     display: block;
     text-align: center;}
   h1 {font-size: 3.5rem;}
   h2 {font-size: 3rem;}
   h3 {font-size: 2.9rem;}
-  #features {bottom: 140px; margin-bottom: -140px;}
+  #features {bottom: 140px; margin-bottom: -140px; font-size: 200%;}
   p {font-size: 1.8rem;}
-  p.motto {font-size: 2rem;}
-  p.szöveg {font-size: 2rem;}
+  .heading1 {position: relative; bottom: 440px;}
+  
 }
 @media (min-width: 1000px) {
   .logo1 {width: 180%;}
