@@ -102,7 +102,7 @@ button.buttonka1 {margin: 2%;}
   h3 {font-size: 2.9rem;}
   #features {bottom: 140px; margin-bottom: -140px; font-size: 200%;}
   p {font-size: 1.8rem;}
-  .heading1 {position: relative; bottom: 440px;}
+  .heading1 {position: relative; bottom: 440px; left: 100px;}
   
 }
 @media (min-width: 1000px) {
