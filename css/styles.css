@@ -48,7 +48,7 @@ li.nav-item {padding: 0px 20px; font-size: 1.2rem;}
 button.buttonka {margin: 10%; position: relative; left: 30px; font-weight: bold;}
 button.buttonka1 {margin: 2%;}
 
-#features {text-align: center; padding: 0% 15% 0%; z-index: 1; position: relative; bottom: 230px; margin-bottom: -230px;}
+#features {text-align: center; padding: 0% 15% 0%; z-index: 1;}
 
 .fa-scissors {font-size: 300%; padding-bottom: 20px;}
 .fa-leaf {font-size: 300%; padding-bottom: 20px;}
