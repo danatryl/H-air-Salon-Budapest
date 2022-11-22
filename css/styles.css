@@ -91,7 +91,7 @@ button.buttonka1 {margin: 2%;}
   h1 {text-align: center;}
   #title {text-align: center;}
   .buttonka {position: relative; right: 40px; z-index: 2;}
-  .munkakép {width: 28%;}
+  .munkakép {width: 32%;}
   .logo1 {width: 110%; position: static;}
   a.nav-link {
     font-size: 2.3rem; text-align: center; display: block; position: static; padding: auto;}
@@ -101,7 +101,7 @@ button.buttonka1 {margin: 2%;}
   h1 {font-size: 3.5rem;}
   h2 {font-size: 3rem;}
   h3 {font-size: 2.9rem;}
-  #features {font-size: 200%;}
+  #features {font-size: 200%; padding: 2% 8%;}
   p {font-size: 1.8rem;}
   .heading1 {position: relative; bottom: 440px; left: 100px;}
   #testimonials { padding: 2% 8%;}
