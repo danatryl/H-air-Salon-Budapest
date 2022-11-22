@@ -104,6 +104,7 @@ button.buttonka1 {margin: 2%;}
   #features {font-size: 200%;}
   p {font-size: 1.8rem;}
   .heading1 {position: relative; bottom: 440px; left: 100px;}
+  #testimonials { padding: 2% 8%;}
   
 }
 @media (min-width: 1000px) {
