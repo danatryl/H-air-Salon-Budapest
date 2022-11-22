@@ -87,7 +87,7 @@ button.buttonka1 {margin: 2%;}
 .eláll {padding-top: 10%;}
 
 @media (max-width: 1030px) {
-  img.img1 { transform: rotate(0deg); width: 90%; position: static;}
+  img.img1 { transform: rotate(0deg); width: 110%; position: static;}
   h1 {text-align: center;}
   #title {text-align: center;}
   .buttonka {position: relative; bottom: 200px; left: 120px;}
