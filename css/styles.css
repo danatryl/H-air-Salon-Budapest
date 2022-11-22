@@ -89,7 +89,7 @@ button.buttonka1 {margin: 2%;}
 @media (max-width: 1030px) {
   img.img1 { transform: rotate(0deg); width: 110%; position: static;}
   h1 {text-align: center;}
-  #title {text-align: center;}
+  #title {text-align: center; padding-right: -100px;}
   .buttonka {position: relative; bottom: 170px; left: 120px;}
   .munkakép {width: 21%;}
   .logo1 {width: 110%; position: static;}
@@ -103,7 +103,7 @@ button.buttonka1 {margin: 2%;}
   h3 {font-size: 2.9rem;}
   #features {font-size: 200%; padding: 2% 8%;}
   p {font-size: 1.8rem;}
-  .heading1 {position: relative; bottom: 560px; left: 280px; padding: 0px; margin: 0px;}
+  .heading1 {position: relative; bottom: 560px; left: 280px; padding-right: 0px; margin-right: 0px;}
   #testimonials { padding: 2% 6%;}
   
 }
