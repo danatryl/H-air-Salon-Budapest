@@ -95,7 +95,7 @@ button.buttonka1 {margin: 2%;}
   .logo1 {width: 110%; position: static;}
   a.nav-link {
     font-size: 2.3rem; text-align: center; display: block; position: static; padding: auto;}
-  .navbaba {position: relative; left: 190px; top: 240px;;
+  .navbaba {margin-left: auto; margin-right: auto;
     display: block;
     text-align: center;}
   h1 {font-size: 3.5rem;}
