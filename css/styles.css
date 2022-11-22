@@ -87,7 +87,7 @@ button.buttonka1 {margin: 2%;}
 .eláll {padding-top: 10%;}
 
 @media (max-width: 1030px) {
-  img.img1 { transform: rotate(0deg); width: 110%; position: static;}
+  img.img1 { transform: rotate(0deg); width: 90%; position: static;}
   h1 {text-align: center;}
   #title {text-align: center;}
   .buttonka {position: relative; bottom: 200px; left: 120px;}
@@ -103,7 +103,7 @@ button.buttonka1 {margin: 2%;}
   h3 {font-size: 2.9rem;}
   #features {font-size: 200%; padding: 2% 8%;}
   p {font-size: 1.8rem;}
-  .heading1 {position: relative; bottom: 600px; left: 240px; padding: 0%;}
+  .heading1 {position: relative; bottom: 580px; left: 250px; padding: 0%;}
   #testimonials { padding: 2% 6%;}
   
 }
