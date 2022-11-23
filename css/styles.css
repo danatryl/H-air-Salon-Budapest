@@ -107,6 +107,7 @@ button.buttonka1 {margin: 2%;}
   p {font-size: 1.8rem;}
   .heading1 {position: relative; bottom: 575px; left: 150px; padding-right: 0px; margin-right: 0px;}
   #testimonials { padding: 2% 6%;}
+  .eláll {font-size: 1rem; text-align: center;}
   
 }
 @media (min-width: 1000px) {
