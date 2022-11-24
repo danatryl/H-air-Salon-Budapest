@@ -63,7 +63,7 @@ button.buttonka1 {margin: 2%;}
 }
 
 
-.carousel-inner {padding: 7% 4%; text-align: center;}
+.carousel-inner {padding: 7% 15%; text-align: center;}
 
 .munkakép { width: 20%; border-radius: 20%; margin: 20px;}
 .munkakép1 { width: 20%; border-radius: 20%; margin: 20px;}
@@ -108,6 +108,7 @@ button.buttonka1 {margin: 2%;}
   #testimonials { padding: 2% 6%;}
   .eláll {font-size: 1.8rem; text-align: center;}
   #table {font-size: 1.8rem;}
+  .carousel-inner {padding: 7% 4%; text-align: center;}
   
 }
 @media (min-width: 1000px) {
