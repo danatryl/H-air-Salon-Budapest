@@ -111,6 +111,7 @@ button.buttonka1 {margin: 2%;}
   .carousel-inner {height: 200%; width: 200%;}
   .motto {font-size: 1.8rem;}
   .szöveg1 {font-size: 1.8rem;}
+  #table {font-size: 1.8rem;}
   
 }
 @media (min-width: 1000px) {
