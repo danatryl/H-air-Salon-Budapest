@@ -107,9 +107,10 @@ button.buttonka1 {margin: 2%;}
   p {font-size: 1.8rem;}
   .heading1 {position: relative; bottom: 575px; left: 150px; padding-right: 0px; margin-right: 0px;}
   #testimonials { padding: 2% 6%;}
-  .eláll {font-size: 1rem; text-align: center;}
+  .eláll {font-size: 1.8rem; text-align: center;}
   .carousel-inner {height: 300px; width: 300px;}
   .carousel-item {height: 300px; width: 300px;}
+  .munkakép {height: 200%;}
   p.motto {font-size: 1.8rem;}
   p.szöveg {font-size: 1.8rem;}
   #table p {font-size: 1.8rem;}
