@@ -108,7 +108,8 @@ button.buttonka1 {margin: 2%;}
   #testimonials { padding: 2% 6%;}
   .eláll {font-size: 1.8rem; text-align: center;}
   #table {font-size: 1.8rem;}
-  .carousel-inner {padding: 7% 4%; text-align: center;}
+  .carousel-inner {padding: 7% 0%; text-align: center;}
+  .carousel-item {width: 25%;}
   
 }
 @media (min-width: 1000px) {
