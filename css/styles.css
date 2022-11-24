@@ -109,7 +109,7 @@ button.buttonka1 {margin: 2%;}
   .eláll {font-size: 1.8rem; text-align: center;}
   .carousel-inner {height: 300px; width: 300px;}
   .carousel-item {height: 300px; width: 300px;}
-  .munkakép {height: 200%;}
+  .munkakép {height: 200%; object-fit:cover;}
   #table {font-size: 1.8rem;}
   
 }
