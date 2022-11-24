@@ -103,16 +103,15 @@ button.buttonka1 {margin: 2%;}
   h3 {font-size: 2.9rem;}
   h4 {font-size: 2.4rem;}
   .fodrasz {font-size: 2.4rem;}
-  #features {font-size: 200%; padding: 2% 8%;}
   p {font-size: 1.8rem;}
   .heading1 {position: relative; bottom: 575px; left: 150px; padding-right: 0px; margin-right: 0px;}
   #testimonials { padding: 2% 6%;}
   .eláll {font-size: 1rem; text-align: center;}
   .carousel-inner {height: 200%; width: 200%;}
   .carousel-item {height: 200%; width: 200%;}
-  .motto {font-size: 1.8rem;}
-  .szöveg1 {font-size: 1.8rem;}
-  #table {font-size: 1.8rem;}
+  p.motto {font-size: 1.8rem;}
+  p.szöveg {font-size: 1.8rem;}
+  #table p {font-size: 1.8rem;}
   
 }
 @media (min-width: 1000px) {
