@@ -62,7 +62,7 @@ button.buttonka1 {margin: 2%;}
   color: #F05454;
 }
 
-.fasz {width: 130%;}
+
 .carousel-inner {padding: 7% 8%; text-align: center;}
 
 .munkakép { width: 20%; border-radius: 20%; margin: 20px;}
@@ -79,8 +79,8 @@ button.buttonka1 {margin: 2%;}
 .cím {font-size: 1.6rem; font-family: "Ubuntu";}
 .idő {font-family: "Ubuntu";}
 .hairblog {margin: 5%; font-size: 3rem;}
-#footer { text-align: center; padding: 50px;}
-.fasz {margin: 2% 3%; font-size: 1.8rem; color: black;}
+#footer { text-align: center; padding: 40px;}
+.fasz {margin: 2% 3%; font-size: 2rem; color: black;}
 #dolgozz {text-align: left; padding: 2% 20%;}
 .velünk {text-align: center; font-weight: bold; font-size: 1.5rem;}
 .szöveg1 {padding-bottom: 15%;}
