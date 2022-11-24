@@ -55,15 +55,15 @@ button.buttonka1 {margin: 2%;}
 .fa-leaf {font-size: 300%; padding-bottom: 20px;}
 .fa-ruler-vertical {font-size: 300%; padding-bottom: 20px;}
 
-#features p {font-size: 1.2rem; font-family: "Ubuntu";}
+#features p {font-size: 1.8rem; font-family: "Ubuntu";}
 
 .icon {color: #ef8172;}
 .icon:hover {
   color: #F05454;
 }
 
-.fasz {width: 150%;}
-.carousel-inner {padding: 7% 15%; text-align: center;}
+.fasz {width: 180%;}
+.carousel-inner {padding: 7% 8%; text-align: center;}
 
 .munkakép { width: 20%; border-radius: 20%; margin: 20px;}
 .munkakép1 { width: 20%; border-radius: 20%; margin: 20px;}
