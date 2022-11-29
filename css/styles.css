@@ -63,10 +63,11 @@ button.buttonka1 {margin: 2%;}
 }
 .fodrasz {font-weight: bold;}
 
-.carousel-inner {padding: 7% 15%; text-align: center;}
+.carousel-inner {padding: 2% 4%; text-align: center;}
+.carousel-item {width: 120%;}
 
-.munkakép { width: 20%; border-radius: 20%; margin: 20px;}
-.munkakép1 { width: 20%; border-radius: 20%; margin: 20px;}
+.munkakép { width: 25%; border-radius: 20%; margin: 20px;}
+.munkakép1 { width: 25%; border-radius: 20%; margin: 20px;}
 
 
 #pricing {padding: 40px; text-align: center; font-family: "Ubuntu";}
