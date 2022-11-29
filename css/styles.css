@@ -109,7 +109,8 @@ button.buttonka1 {margin: 2%;}
   .eláll {font-size: 1.8rem; text-align: center;}
   #table {font-size: 1.8rem;}
   .carousel-inner {padding: 7% 0%; text-align: center;}
-  .carousel-item {width: 75%;}
+  .carousel-item {width: 100%;}
+  .munkakép {width: 30%;}
   .ikon {margin: 10%}
   .motto {font-size: 2.9rem; font-weight: bold;}
   .szöveg {font-size: 2.9rem; font-weight: bold;}
