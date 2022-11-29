@@ -105,12 +105,12 @@ button.buttonka1 {margin: 2%;}
   .fodrasz {font-size: 2.4rem;}
   p {font-size: 1.8rem;}
   .heading1 {position: relative; bottom: 575px; left: 150px; padding-right: 0px; margin-right: 0px;}
-  #testimonials { padding: 2% 3%;}
+  #testimonials { padding: 2% 2%;}
   .eláll {font-size: 1.8rem; text-align: center;}
   #table {font-size: 1.8rem;}
   .carousel-inner {padding: 7% 0%; text-align: center;}
-  .carousel-item {width: 100%;}
-  .munkakép {width: 30%;}
+  .carousel-item {width: 120%;}
+  .munkakép {width: 25%;}
   .ikon {margin: 3%}
   .motto {font-size: 2.4rem; font-weight: bold;}
   .szöveg {font-size: 2.4rem; font-weight: bold;}
