@@ -114,6 +114,7 @@ button.buttonka1 {margin: 2%;}
   .ikon {margin: 3%}
   .motto {font-size: 2.4rem; font-weight: bold;}
   .szöveg {font-size: 2.4rem; font-weight: bold;}
+  #features {padding-bottom: 0px;}
   
 }
 @media (min-width: 1000px) {
