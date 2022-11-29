@@ -86,6 +86,7 @@ button.buttonka1 {margin: 2%;}
 .szöveg1 {padding-bottom: 15%;}
 .árlista {padding-bottom: 10%; font-size: 3rem;}
 .eláll {padding-top: 10%;}
+.eláll1 {padding-top: 10%; font-size: 2rem; text-align: center; font-weight: bold; font-family: "DM Serif Display";}
 
 @media (max-width: 1030px) {
   img.img1 { transform: rotate(0deg); width: 110%; position: static;}
