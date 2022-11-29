@@ -24,7 +24,7 @@ div.container-fluid {
   padding: 2% 15%;
 }
 #arlista {
-  padding: 2% 15%;
+  padding: 2% 15%; 
 }
 .title1 {
   padding: 2% 15%;
@@ -84,7 +84,7 @@ button.buttonka1 {margin: 2%;}
 #dolgozz {text-align: left; padding: 2% 20%;}
 .velünk {text-align: center; font-weight: bold; font-size: 1.5rem;}
 .szöveg1 {padding-bottom: 15%;}
-.árlista {padding-bottom: 10%;}
+.árlista {padding-bottom: 10%; font-size: 3rem;}
 .eláll {padding-top: 10%;}
 
 @media (max-width: 1030px) {
@@ -111,6 +111,8 @@ button.buttonka1 {margin: 2%;}
   .carousel-inner {padding: 7% 0%; text-align: center;}
   .carousel-item {width: 75%;}
   .ikon {margin: 10%}
+  .motto {font-size: 2.9rem; font-weight: bold;}
+  .szöveg {font-size: 2.9rem; font-weight: bold;}
   
 }
 @media (min-width: 1000px) {
