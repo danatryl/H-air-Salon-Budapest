@@ -61,7 +61,7 @@ button.buttonka1 {margin: 2%;}
 .icon:hover {
   color: #F05454;
 }
-
+.fodrasz {font-weight: bold;}
 
 .carousel-inner {padding: 7% 15%; text-align: center;}
 
@@ -110,6 +110,7 @@ button.buttonka1 {margin: 2%;}
   #table {font-size: 1.8rem;}
   .carousel-inner {padding: 7% 0%; text-align: center;}
   .carousel-item {width: 75%;}
+  .ikon {margin: 10%}
   
 }
 @media (min-width: 1000px) {
