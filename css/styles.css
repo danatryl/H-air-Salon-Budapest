@@ -107,14 +107,14 @@ button.buttonka1 {margin: 2%;}
   .heading1 {position: relative; bottom: 575px; left: 150px; padding-right: 0px; margin-right: 0px;}
   #testimonials { padding: 0% 2%;}
   .eláll {font-size: 1.8rem; text-align: center;}
-  .eláll1 {padding-top: 10%; font-size: 2.4rem; text-align: center; font-weight: bold;}
+  .eláll1 {padding-top: 10%; font-size: 2rem; text-align: center; font-weight: bold; font-family: "DM Serif Display";}
   #table {font-size: 1.8rem;}
   .carousel-inner {padding: 7% 0%; text-align: center;}
   .carousel-item {width: 120%;}
   .munkakép {width: 25%;}
   .ikon {margin: 3%}
-  .motto {font-size: 2.4rem; font-weight: bold;}
-  .szöveg {font-size: 2.4rem; font-weight: bold;}
+  .motto {font-size: 2.2rem; font-weight: bold;}
+  .szöveg {font-size: 2.2rem; font-weight: bold;}
   
   
 }
