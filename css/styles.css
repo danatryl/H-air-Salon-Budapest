@@ -30,7 +30,7 @@ div.container-fluid {
   padding: 2% 15%;
 }
 
-.motto {padding: 5%; font-size: 1.5rem;}
+.motto {padding: 3%; font-size: 1.5rem;}
 
 .logo1 {width: 100%; position: relative; right: 40px;}
 
@@ -51,9 +51,9 @@ button.buttonka1 {margin: 2%;}
 
 #features {text-align: center; padding: 0% 15% 0%; z-index: 1;}
 
-.fa-scissors {font-size: 350%; padding-bottom: 40px;}
-.fa-leaf {font-size: 350%; padding-bottom: 40px;}
-.fa-ruler-vertical {font-size: 350%; padding-bottom: 40px;}
+.fa-scissors {font-size: 350%;}
+.fa-leaf {font-size: 350%;}
+.fa-ruler-vertical {font-size: 350%;}
 
 #features p {font-size: 1.8rem; font-family: "Ubuntu";}
 
