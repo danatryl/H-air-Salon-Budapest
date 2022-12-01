@@ -107,7 +107,7 @@ button.buttonka1 {margin: 2%;}
   h2 {font-size: 3rem;}
   h3 {font-size: 2.9rem;}
   h4 {font-size: 2.4rem;}
-  .fodrasz {font-size: 2.4rem;}
+  .fodrasz {font-size: 2.4rem; font-weight: bold;}
   p {font-size: 1.8rem;}
   .heading1 {position: relative; bottom: 575px; left: 150px; padding-right: 0px; margin-right: 0px;}
   #testimonials { padding: 0% 2%;}
