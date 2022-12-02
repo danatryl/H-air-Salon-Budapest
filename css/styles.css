@@ -1,6 +1,6 @@
 
 #title {
-  background-color: #EDE4E0; position: static;
+  background-color: #DEF5E5; position: static;
 }
 
 h1, h2, h3 {  font-family: "DM Serif Display";}
@@ -14,11 +14,11 @@ h4 {font-weight: bold; font-size: 1.8rem;}
 
 .heading1 {font-family: "DM Serif Display";  font-size: 3.4rem;  line-height: 1.5; padding: 30px; text-align: left; padding-bottom: 60px;}
 
-.colored-section {background-color: #EDE4E0;}
+.colored-section {background-color: #DEF5E5;}
 
 .white-section {background-color: #BCEAD5;}
 
-.képek {text-align: center; background-color: #EDE4E0;}
+.képek {text-align: center; background-color: #DEF5E5;}
 
 div.container-fluid {
   padding: 2% 15%;
