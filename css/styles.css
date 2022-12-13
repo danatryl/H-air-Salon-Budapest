@@ -84,10 +84,10 @@ button.buttonka1 {margin: 2%;}
 .fasz {margin: 2% 3%; font-size: 3rem; color: black;}
 #dolgozz {text-align: left; padding: 2% 20%;}
 .velünk {text-align: center; font-weight: bold; font-size: 1.5rem;}
-.szöveg1 {padding-bottom: 15%; font-family: "DM Serif Display";}
-.szöveg2 {font-family: "DM Serif Display";}
-.motto {font-family: "Ubuntu";}
-.szöveg {font-family: "Ubuntu";}
+.szöveg1 {padding-bottom: 15%; font-family: "Ubuntu";}
+.szöveg2 {font-family: "Ubuntu";}
+.motto {font-family: "DM Serif Display";}
+.szöveg {font-family: "DM Serif Display";}
 .árlista {padding-bottom: 10%; font-size: 3rem;}
 .eláll {padding-top: 10%;}
 .eláll1 {padding-top: 10%; font-size: 2rem; text-align: center; font-weight: bold; font-family: "DM Serif Display";}
